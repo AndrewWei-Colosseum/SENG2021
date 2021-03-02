@@ -1,2 +1,0 @@
-# SENG2021
-SENG2021 Project
