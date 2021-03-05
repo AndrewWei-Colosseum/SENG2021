@@ -23,3 +23,7 @@ while 1:
 
     serverSocket.sendto(modifiedMessage, clientAddress)
     #send it back to client, need to specify the client address in sendto
+
+
+# add something here to clarify the exact meaning of coding. 
+
