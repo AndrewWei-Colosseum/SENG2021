@@ -27,3 +27,9 @@ print modifiedMessage
 clientSocket.close()
 # Close the socket
 
+
+
+
+# Add your comments about this piece of codes 
+# And take care please :) 
+
